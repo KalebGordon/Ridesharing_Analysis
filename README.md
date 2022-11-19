@@ -56,4 +56,4 @@ We propose that the company provides driver incentive to ride-share in Rural and
 If the lower total fares is not due to the lack of drivers, but instead the lack of customers, we recommend focusing our advertising in those areas. Perhaps a coupon off an individual's first ride would incentivise customers in lower-population areas to utilize our platform over our competitors. 
 
 ### Proposal Three 
-If we 
+Based on our Total Fare by City Type graph, we can see that the total fares spike in all three city types toward the end of February. These spikes repeat but decrease in intensity until the end of March, then shoot up again in the first half of April. If we incentivised more drivers to use our platform during those periods of high usage, we would see more fares. 
