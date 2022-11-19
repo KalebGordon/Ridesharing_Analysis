@@ -10,4 +10,24 @@ We can see that Urban cities dominate the ride count with 1625 total rides. This
 
 The average fares show an inverse relationship with population density (total ride count). The average fares in Urban areas are the lowest at $24.53. Suburban areas reign in at number two with an average fare of $30.97. The highest average fare is in Rural areas at $34.62. Our analysts suspect that this is due to the longer ride distance in lower population density areas. 
 
+<p align="center">
+  <img width="" height="" src="Resources/Fig1.png">
+</p>
+
+<p align="center">
+  <img width="" height="" src="Resources/Fig2.png">
+</p>
+
+<p align="center">
+  <img width="" height="" src="Resources/Fig5.png">
+</p>
+
+<p align="center">
+  <img width="" height="" src="Resources/Fig6.png">
+</p>
+
+<p align="center">
+  <img width="" height="" src="Resources/Fig7.png">
+</p>
+
 ## Summary
