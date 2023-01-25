@@ -1,4 +1,4 @@
-# PyBer_Analysis
+# Ridesharing_Analysis
 
 ## Overview
 As a data analyst for Pyber, a Python-based ridesharing app company, we must analyze and visualize data from their ridesharing app. Our goal is to showcase different relationships between the type of city and the number of drivers, fares, and more. For this analysis, we must create a summary DataFrame of the ride-sharing data by city type. Then we must visualize it using MatPlotLib. 
